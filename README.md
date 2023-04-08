@@ -24,4 +24,5 @@ The script generates prompts based on the user-provided description. It generate
 The prompts are saved in a text file located in a prompts folder in the same directory as the script. The filename is generated based on the prompt description given by the user.
 
 To install openai python module:
+
     pip install openai

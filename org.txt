@@ -1,1 +1,1 @@
-your_openai_account_organisation_name_here
+your_openai_account_organisation_key_here

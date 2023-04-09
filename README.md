@@ -52,3 +52,22 @@ Generated :
 
 ![output](https://user-images.githubusercontent.com/15731540/230790695-0cf0a046-fa2e-4bb7-a3ac-8e38b88f11de.jpg)
 
+Request :
+
+    "Life on another planet. Describe the inhabitants. Make it short."
+
+Generated :
+
+    Alien figures with amorphic shapes and colorful membranes, some exhibiting bioluminescence, in a misty and dreamlike environment.
+    Alien settlement at dawn, contrasting orange and blue color palette, misty foreground suggests an exotic flora, impressionist brushstrokes convey the sense of otherworldliness, focus on the small beings with multiple limbs and colorful skin patterns, tiny metallic structures scattered throughout the midground.
+    Purple-hued creatures with elongated limbs and large, unblinking eyes gather around a glowing crystal formation in a jagged, mineral-strewn landscape on a far-off planet.
+    multiple moons in the sky, luminescent flora, miniature humanoid creatures, curious yet friendly demeanor.
+    Bioluminescent flora, iridescent fauna, humanoid beings wearing flowing garments, architecture seemingly woven into the landscape, a distant galaxy looming in the sky.
+    Alien sky with multiple moons and planets, a humanoid creature with translucent skin standing alongside a tree-like creature, intense curiosity and analysis on the creature's part.
+    Martian landscape with red sand dunes as foreground, colorful auroras as background with two small, blue humanoid figures exhibiting a sense of curiosity and wonder with their poses.
+    Alien city at night, glowing buildings and structures, strange shadows lurking on the corners, vivid color contrasts, bustling movement, eerie silence.
+    A colorful, bustling starry market filled with curious, fluffy creatures buying and selling otherworldly goods for the approaching lunar festival celebration.
+    Alien planet with purple skies and rocky terrain, towering fern-like plants, humanoid creatures with bright yellow eyes and metallic exoskeletons scurrying through tunnels in the distance.
+    Alien marketplace bustling with activity, neon lights flickering, towering structures, small creatures scurrying about, inquisitive and friendly locals.
+    Martian cityscape with towering alien structures and luminescent flora, bustling with tiny amphibian-like creatures scurrying about their daily lives.
+

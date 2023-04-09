@@ -70,4 +70,6 @@ Generated :
     Alien planet with purple skies and rocky terrain, towering fern-like plants, humanoid creatures with bright yellow eyes and metallic exoskeletons scurrying through tunnels in the distance.
     Alien marketplace bustling with activity, neon lights flickering, towering structures, small creatures scurrying about, inquisitive and friendly locals.
     Martian cityscape with towering alien structures and luminescent flora, bustling with tiny amphibian-like creatures scurrying about their daily lives.
+    
+![output](https://user-images.githubusercontent.com/15731540/230791234-6bd70490-a7e3-4559-8a8e-042db325859b.jpg)
 

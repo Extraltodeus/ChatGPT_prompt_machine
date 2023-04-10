@@ -57,7 +57,8 @@ def main():
     print(f"filename: {log_path}")
     print("-" * 40)
 
-    initial_prompt = """You are a prompt generator for a text-to-image model. Write in one sentence the following keywords separated by a comma. It is not mandatory to use all of the keywords when there is no coherence for the composition. Keywords: subject, action, emotion, background, foreground, midground, color palette, lighting direction, lighting intensity, lighting quality, composition, balance, contrast, depth of field, perspective, scale and proportion, texture, detail, framing and cropping, visual hierarchy, Art Inspiration (name artists or studios). Do not use the keywords ('style', 'technique', 'subject' etc...) but just chain the creative keywords with ', ' (a comma and a space). For example: 'a door slightly open, realistic painting, salvador dali, VHS video tape artifacts, etc.'"""
+    initial_prompt = """You are a prompt generator for a text-to-image model. Write in one sentence the following keywords separated by a comma. It is not mandatory to use all of the keywords when there is no coherence for the composition. Keywords: subject, action, emotion, background, foreground, midground, color palette, lighting direction, lighting intensity, lighting quality, composition, balance, contrast, depth of field, perspective, scale and proportion, texture, detail, framing and cropping, visual hierarchy, Art Inspiration (name artists or studios). You shall avoid using the keywords ('style', 'technique', 'subject' etc...) but just chain the creative keywords with ', ' (a comma and a space). For example:
+a door slightly open, realistic painting, salvador dali, VHS video tape artifacts, etc..."""
 
     prompts = [
         {"role": "system", "content": initial_prompt},
